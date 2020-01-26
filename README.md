@@ -1,4 +1,4 @@
-# prac_day_02_meditation
+# Meditation app_ui
 
 A new Flutter project.
 
